@@ -1,10 +1,10 @@
 import { useState } from 'react'
-
+import Raunak from './Raunak.jsx'
 
 function App() {
 
   return (
-      <h1>Raunak Tiwarii</h1>
+      <Raunak />
   )
 }
 
